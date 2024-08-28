@@ -1,0 +1,13 @@
+.carousel-item{
+    height: 60%;
+    width: 60%;
+}
+
+.card{
+
+    background-color: darkslategray;
+}
+
+body{
+    background-color: black;
+}
